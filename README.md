@@ -23,7 +23,7 @@ This is the Git repo with the code and slides from the O'Reilly AI Conference NY
 The following are required for the universe-starter-agent demo.
 
 ```
-conda create --name universe-starter-agent python=2
+conda create --name universe-starter-agent python=2.7
 source activate universe-starter-agent
 
 brew install tmux htop cmake golang libjpeg-turbo      # On Linux use sudo apt-get install -y tmux htop cmake golang libjpeg-dev
@@ -36,3 +36,8 @@ conda install -y -c https://conda.binstar.org/menpo opencv3
 conda install -y numpy
 conda install -y scipy
 ```
+
+# Other Approaches
+
+* [NEAT](https://github.com/HackerHouseYT/OpenAI-NEAT)
+* [EWC](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/)
