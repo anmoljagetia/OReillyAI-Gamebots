@@ -7,7 +7,7 @@ This is the Git repo with the code and slides from the O'Reilly AI Conference NY
 * Python 2.7 or 3.5
 * [Golang](https://golang.org/doc/install)
 * [six](https://pypi.python.org/pypi/six) (for py2/3 compatibility)
-* [TensorFlow](https://www.tensorflow.org/) 0.12
+* [TensorFlow](https://www.tensorflow.org/)
 * [tmux](https://tmux.github.io/) (the start script opens up a tmux session with multiple windows)
 * [htop](https://hisham.hm/htop/) (shown in one of the tmux windows)
 * [gym](https://pypi.python.org/pypi/gym)
@@ -20,8 +20,10 @@ This is the Git repo with the code and slides from the O'Reilly AI Conference NY
 
 # Getting Started
 
+The following are required for the universe-starter-agent demo.
+
 ```
-conda create --name universe-starter-agent python=3.5
+conda create --name universe-starter-agent python=2
 source activate universe-starter-agent
 
 brew install tmux htop cmake golang libjpeg-turbo      # On Linux use sudo apt-get install -y tmux htop cmake golang libjpeg-dev
