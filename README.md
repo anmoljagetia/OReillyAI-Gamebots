@@ -41,3 +41,12 @@ conda install -y scipy
 
 * [NEAT](https://github.com/HackerHouseYT/OpenAI-NEAT)
 * [EWC](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/)
+
+# Important links.
+
+* [Gym](https://github.com/openai/gym)
+* [Universe](https://github.com/openai/universe)
+* [A3C Paper](https://arxiv.org/abs/1602.01783)
+* [RL Book](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf)
+* [DeepMind Paper on DQN](http://www.davidqiu.com:8888/research/nature14236.pdf)
+* [DeepMind's ECW Paper](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/)
