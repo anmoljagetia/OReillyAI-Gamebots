@@ -36,7 +36,7 @@ ptyprocess==0.5.2
 pyglet==1.2.4
 Pygments==2.2.0
 python-dateutil==2.6.0
-PyYAML==5.1
+PyYAML==5.4
 pyzmq==16.0.2
 requests==2.20.0
 scandir==1.5
