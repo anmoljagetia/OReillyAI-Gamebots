@@ -34,7 +34,7 @@ Pillow==6.2.0
 prompt-toolkit==1.0.14
 ptyprocess==0.5.2
 pyglet==1.2.4
-Pygments==2.2.0
+Pygments==2.7.4
 python-dateutil==2.6.0
 PyYAML==5.1
 pyzmq==16.0.2
