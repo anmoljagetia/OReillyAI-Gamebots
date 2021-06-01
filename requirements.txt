@@ -49,7 +49,7 @@ Twisted==19.7.0
 txaio==2.8.0
 ujson==1.35
 universe==0.21.3
-urllib3==1.21.1
+urllib3==1.26.5
 wcwidth==0.1.7
 websocket-client==0.44.0
 zope.interface==4.4.2
