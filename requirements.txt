@@ -21,7 +21,7 @@ idna==2.5
 incremental==17.5.0
 ipaddress==1.0.18
 ipykernel==4.6.1
-ipython==5.4.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 jupyter-client==5.1.0
 jupyter-core==4.3.0
